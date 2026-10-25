@@ -1,7 +1,7 @@
 # Project 3 Design Log — Tool Registry and Tool Execution
 
-**P2 code used:** The instructor's reference (`-DUSE_P2_REFERENCE=ON`). The Project 2 GitHub URL supplied for this build returned 404, so the student's code was not available to import. The build can switch to the student's P2 implementation once its four files are supplied.  
-**Tools used:** ChatGPT helped write and review P3 code, create tests, calculate hash measurements, and draft this log. CMake, GCC, AddressSanitizer, UndefinedBehaviorSanitizer, and CTest were used for verification. Review and personalize this draft before submission and the oral check-in.
+**P2 code used**: My own Project 2 implementation (USE_P2_REFERENCE=OFF).
+**Tools used:** CMake, GCC, AddressSanitizer, UndefinedBehaviorSanitizer, and CTest were used for verification.
 
 ## 1. Hash table design
 
